@@ -1,0 +1,15 @@
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\bin\Debug\net6.0\PyramidSort.exe
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\bin\Debug\net6.0\PyramidSort.deps.json
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\bin\Debug\net6.0\PyramidSort.runtimeconfig.json
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\bin\Debug\net6.0\PyramidSort.dll
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\bin\Debug\net6.0\PyramidSort.pdb
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\obj\Debug\net6.0\PyramidSort.csproj.AssemblyReference.cache
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\obj\Debug\net6.0\PyramidSort.GeneratedMSBuildEditorConfig.editorconfig
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\obj\Debug\net6.0\PyramidSort.AssemblyInfoInputs.cache
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\obj\Debug\net6.0\PyramidSort.AssemblyInfo.cs
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\obj\Debug\net6.0\PyramidSort.csproj.CoreCompileInputs.cache
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\obj\Debug\net6.0\PyramidSort.dll
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\obj\Debug\net6.0\refint\PyramidSort.dll
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\obj\Debug\net6.0\PyramidSort.pdb
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\obj\Debug\net6.0\PyramidSort.genruntimeconfig.cache
+d:\GB_HomeWork\ALGORYTHM\ALG_HW_02\PyramidSort\PyramidSort\obj\Debug\net6.0\ref\PyramidSort.dll
